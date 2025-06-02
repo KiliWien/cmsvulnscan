@@ -12,7 +12,7 @@
 CMS Vulnerability Scanner is a simple, cross-platform tool designed to help security professionals and developers identify vulnerabilities in popular Content Management Systems like WordPress, Joomla, Drupal, Wix, and Shopify. It’s built with flexibility in mind, using a plugin-based structure and optional AI-assisted scanning, so you can tailor it to your needs.
 
 ## Features
-- Detects known vulnerabilities in WordPress, Joomla, Drupal, Wix, and Shopify
+- Detects known vulnerabilities in WordPress, Joomla, Drupal, Wix.
 - Plugin-based architecture for easy customization and extension
 - Integrates with exploit databases
 - Optional AI-assisted detection for smarter scanning
