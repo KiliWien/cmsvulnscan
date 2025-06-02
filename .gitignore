@@ -1,0 +1,25 @@
+# Binaries
+cmsvulnscan
+cmsvulnscan.exe
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Go build cache
+*.out
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Test output
+*.test
+
+# Dependency directories (if any)
+vendor/
